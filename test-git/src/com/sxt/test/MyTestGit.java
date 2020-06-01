@@ -9,6 +9,7 @@ public class MyTestGit {
 		testGitString="22:04:01";
 		testGitString="22:05:01";
 		testGitString="22:05:10";
+		testGitString="22:07:01";
 	}
 
 }
